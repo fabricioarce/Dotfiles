@@ -1,0 +1,7 @@
+[Default Applications]
+application/x-zerosize=Alacritty.desktop
+text/plain=code-oss.desktop
+
+[Added Associations]
+application/x-zerosize=Alacritty.desktop;
+text/plain=code-oss.desktop;

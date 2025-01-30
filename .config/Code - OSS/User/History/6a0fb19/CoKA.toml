@@ -1,0 +1,14 @@
+[window]
+opacity = 0.9
+padding = { x = 3, y = 3}
+
+[colors]
+[colors.primary]
+
+foreground = "<string>"
+
+background = "#1E1E76"
+
+dim_foreground = "<string>"
+
+bright_foreground = "<string>"

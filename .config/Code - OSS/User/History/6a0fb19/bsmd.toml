@@ -1,0 +1,8 @@
+[window]
+opacity = 0.9
+padding = { x = 3, y = 3}
+
+[colors]
+[colors.primary]
+background = "#0F010F"
+foreground = "#1B021B"

@@ -1,0 +1,14 @@
+2025-01-30 10:42:41.867 [info] Getting Manifest... zaaack.markdown-editor
+2025-01-30 10:42:43.004 [info] Installing extension: zaaack.markdown-editor {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/faar/.vscode-oss/extensions/extensions.json","path":"/home/faar/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.4","date":"2025-01-17T08:53:36.849Z"}}
+2025-01-30 10:42:44.516 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2025-01-30 10:42:44.517 [info] Extension signature verification is not done: zaaack.markdown-editor
+2025-01-30 10:42:44.566 [info] Extracted extension to file:///home/faar/.vscode-oss/extensions/zaaack.markdown-editor-0.1.9-universal: zaaack.markdown-editor
+2025-01-30 10:42:44.570 [info] Renamed to /home/faar/.vscode-oss/extensions/zaaack.markdown-editor-0.1.9-universal
+2025-01-30 10:42:44.583 [info] Extension installed successfully: zaaack.markdown-editor vscode-userdata:/home/faar/.vscode-oss/extensions/extensions.json
+2025-01-30 10:42:44.658 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/faar/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/faar/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
